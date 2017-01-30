@@ -1,2 +1,0 @@
-print "Enter the first verse: ", 
-firstVerse = raw_input()
