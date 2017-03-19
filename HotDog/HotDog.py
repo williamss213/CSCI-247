@@ -13,7 +13,6 @@ def eat(players):
         if players[key] >= 50:
             w = key
             count = count + 1 
-    print count
     if count > 0:
         return w
     else:
