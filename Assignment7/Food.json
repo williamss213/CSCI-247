@@ -1,0 +1,6 @@
+[
+    {"Name" : "Orange Creamsicle Cake", "Ingredients" : ["white cake mix", "orange juice", "plain greek yogurt"], "Calories" : "200"},
+    {"Name" : "Lemon Crinkle Cookies", "Ingredients" : ["lemon cake mix", "cool Whip", "egg", "powdered sugar"], "Calories" : "180"},
+    {"Name" : "Broccoli Cheddar Soup", "Ingredients" : ["broccoli", "garlic", "chicken broth", "cheddar cheese", "heavy cream"], "Calories" : "300"},
+    {"Name" : "Apple Pie Smoothie", "Ingredients" : ["almond milk", "vanilla extract", "cinnamon", "pecans", "dates", "apple"], "Calories" :"150"}
+]
