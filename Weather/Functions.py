@@ -31,10 +31,10 @@ def fileToDictionary(filename):
     for line in file:
         line = line.lower().split(',')
         key = line[0].strip()
-        value = int(line[1].strip())
+        value = line[1].strip()
         
         if key in d:
-            d[key] = d[key] + value
+            d[key].append(value)
         else:
             d[key] = value
     return d
